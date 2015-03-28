@@ -1,0 +1,29 @@
+{
+  "name": "angularapp-project",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo de aplicación web con AngularJS",
+  "bugs": {
+    "url": "https://github.com/iamjonathanpumares/angularapp-project/issues",
+    "email": "jepc1491@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Jonathan Pumares <jepc1491@gmail.com> - http://jonathanpumares.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamjonathanpumares/angularapp-project"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "connect-history-api-fallback": "0.0.5",
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.9.4",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-stylus": "^2.0.1",
+    "gulp-uglify": "^1.1.0",
+    "gulp-useref": "^1.1.1",
+    "jshint-stylish": "^1.0.1",
+    "nib": "^1.1.0"
+  }
+}
